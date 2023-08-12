@@ -1,6 +1,5 @@
 ﻿# i3-7100-Hackintosh
 i3-7100 Gigabyte H110M-S2(ver1.0) Hackintosh
-### 电脑配置
 
 |<h3>**Thông số kỹ thuật**</h3>|<h3></h3>|
 | :-: | :-: |
@@ -9,7 +8,7 @@ i3-7100 Gigabyte H110M-S2(ver1.0) Hackintosh
 |<h3></h3>|<h3>Intel(R) Core(TM) i3-7100 @3.90GHz</h3>|
 |<h3>**Main**</h3>|<h3>Main Gigabyte H110M-S2 (Ver1.0)</h3>|
 |<h3>**Ram**</h3>|<h3>8GB DDR4 2133MHz (4G\*2)</h3>|
-|<h3>硬盘</h3>|<h3>SSD Colorful SSD 160G STATIII</h3>|
+|<h3></h3>|<h3>SSD Colorful SSD 160G STATIII</h3>|
 |<h3></h3>|<h3>Intel HD Graphics 630 1536MB</h3>|
 |<h3></h3>|<h3>Realtek ALC887</h3>|
 |<h3>**monitor**</h3>|<h3>SAMSUNG LF24T35  / 1920x1080</h3>|
