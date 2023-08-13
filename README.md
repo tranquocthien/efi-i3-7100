@@ -23,6 +23,7 @@ i3-7100 Gigabyte H110M-S2(ver1.0) Hackintosh
 1. Card mạng có dây: Sử dụng Realtek8111.kext
 ###
 BIOS setup khi sử dụng EFI.zip：
+
 Disable：
 
 1. CFG Lock（MSR 0xE2) Mục này phải được tắt và nếu không có mục này trong BIOS, hãy chú ý đến cài đặt Kernel -> AppleXcpmCfgLock cho Yes.
@@ -44,3 +45,7 @@ Enable：
 1. DVMT Pre-Allocated：>64MB
 ###
 ......
+
+BIOS setup khi sử dụng EFI2.ZIP: 
+
+
