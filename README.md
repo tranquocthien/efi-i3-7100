@@ -21,6 +21,8 @@ i3-7100 Gigabyte H110M-S2(ver1.0) Hackintosh
 1. USB: 
 1. Cạc âm thanh: ALC887, inject ID:1.
 1. Card mạng có dây: Sử dụng Realtek8111.kext
+1. Bluetooth: 
+ - ORICO BTA 403: Dùng IntelBluetoothFirmware.kext và BlueToolFixup.kext (BrcmPatchRAM)
 ###
 BIOS setup khi sử dụng EFI.zip：
 
