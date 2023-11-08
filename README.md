@@ -48,6 +48,8 @@ Enable：
 ###
 ......
 
+link setup bios: https://youtu.be/CLzgwaSf7fY?si=qFvGGWGMH9rm3NnF
+
 BIOS setup khi sử dụng EFI2.ZIP: 
 
 
