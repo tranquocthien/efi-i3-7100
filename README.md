@@ -1,7 +1,7 @@
 ﻿# i3-7100-Hackintosh
 i3-7100 Gigabyte H110M-S2(ver1.0) Hackintosh
 
-|<h3>**Thông số kỹ thuật**</h3>|<h3>ventura 13.5, sonoma</h3>|
+|<h3>**Thông số kỹ thuật**</h3>|<h3>ventura 13.6.1, sonoma</h3>|
 | :-: | :-: |
 |<h3></h3>|<h3></h3>|
 |<h3></h3>|<h3>macOS Ventura 13.5(22G74)</h3>|
